@@ -1,8 +1,0 @@
-@CHARSET "ISO-8859-1";
-#pane{
-    -fx-background-image: url("http://www.wallpapers-web.com/data/out/7/3744253-acoustic-guitar-wallpapers.jpg");
-    -fx-background-repeat: stretch;   
-    -fx-background-size: 900 506;
-    -fx-background-position: center center;
-    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0); 
-}
