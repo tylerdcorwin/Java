@@ -14,7 +14,7 @@ public class Strings {
 	//s -> sharp
 	//b -> flat
 	//X -> Not Played
-			//				   OPEN|| 1 || 2 || 3 || X
+			//		OPEN|| 1 || 2 || 3 || X
 	public enum E_STRING 		{E,   F,   Fs,  G,   X}
 	public enum A_STRING 		{A,   As,  B,   C,   X}
 	public enum D_STRING 		{D,   Ds,  E,   F,   X}
